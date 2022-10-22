@@ -1,0 +1,13 @@
+#include <graphx/linalg.attrmatrix.hpp>  // import *
+#include <graphx/linalg.hpp>  // import attrmatrix
+#include <graphx/linalg.spectrum.hpp>  // import *
+#include <graphx/linalg.hpp>  // import spectrum
+#include <graphx/linalg.graphmatrix.hpp>  // import *
+#include <graphx/linalg.hpp>  // import graphmatrix
+#include <graphx/linalg.laplacianmatrix.hpp>  // import *
+#include <graphx/linalg.hpp>  // import laplacianmatrix
+#include <graphx/linalg.algebraicconnectivity.hpp>  // import *
+#include <graphx/linalg.modularitymatrix.hpp>  // import *
+#include <graphx/linalg.hpp>  // import modularitymatrix
+#include <graphx/linalg.bethehessianmatrix.hpp>  // import *
+#include <graphx/linalg.hpp>  // import bethehessianmatrix
